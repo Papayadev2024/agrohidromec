@@ -194,7 +194,7 @@
 
                             <p class="text-[#808080] font-helveticaLight text-text16 md:text-text18">
                                 Ideal para equipos de presurización, sistemas de presión constante y de riego tecnificado
-                                que requieran caudales consistentes con presiones medias o altas. Fabricadas según l norma
+                                que requieran caudales consistentes con presiones medias o altas. Fabricadas según la norma
                                 EN 733.
                                 Uso en aplicaciones agrícolas e industriales.
                             </p>
@@ -224,7 +224,7 @@
                         </p>
                         <div class="flex flex-col gap-2">
                             <p class="text-[#808080] font-helveticaLight text-text16 md:text-text18">
-                                Idelaes para traspasar o reciclar agua limpia en sistemas agrículas donde se requieren altos
+                                Ideales para traspasar o reciclar agua limpia en sistemas agrícolas donde se requieren altos
                                 caudales con presiones relativamente bajas
                             </p>
                         </div>
@@ -249,7 +249,7 @@
                 <div class="flex flex-col gap-4 group bg-white p-6 rounded-xl hover:shadow-lg md:duration-300">
                     <div class="flex flex-col gap-4">
                         <p class="text-[#007FC8] font-helveticaBold text-text40 leading-none">
-                            Bombas Multietáticas
+                            Bombas Multietápicas
                         </p>
                         <div class="flex flex-col gap-2">
                             <p class="text-[#808080] font-helveticaLight text-text16 md:text-text18">
