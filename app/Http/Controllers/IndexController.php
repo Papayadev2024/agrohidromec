@@ -88,7 +88,11 @@ class IndexController extends Controller
     {
         //
     }
-
+    
+    public function agradecimiento(){
+      return view('public.thankyou');
+    }
+    
     /**
      * Save contact from blade
      */

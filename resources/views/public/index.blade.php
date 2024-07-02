@@ -57,10 +57,10 @@
 
     <main class="bg-[#F9FAFB]">
         <section class="relative">
-            <img src="{{ asset('images/img/image_16.png') }}" alt="hidromec piscinas"
+            <img src="{{ asset('images/img/image_16.png') }}" alt="hidromec agricola"
                 class="w-full h-[800px] object-cover hidden md:block" />
 
-            <img src="{{ asset('images/img/image_16.png') }}" alt="hidromec piscinas"
+            <img src="{{ asset('images/img/image_16.png') }}" alt="hidromec agricola"
                 class="w-full h-[1000px] object-cover block md:hidden" />
 
             <div
