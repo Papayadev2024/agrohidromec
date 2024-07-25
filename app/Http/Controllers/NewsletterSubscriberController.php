@@ -69,8 +69,8 @@ class NewsletterSubscriberController extends Controller
 
     public function showSubscripciones(){
         
-        $subscripciones = NewsletterSubscriber::where('phone','=','agricola')->orderBy('created_at','desc')->get();;
-        
+        $subscripciones = NewsletterSubscriber::where('phone','=','agricola')->orderBy('created_at','desc')->get();
+    
         return view('pages.subscripciones.index', compact('subscripciones'));
 
     }
