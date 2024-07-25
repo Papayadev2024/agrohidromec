@@ -97,7 +97,7 @@ class IndexController extends Controller
      * Save contact from blade
      */
     public function guardarContacto(Request $request)
-    {
+    { 
         $data = $request->all();
         $data['full_name'] = $request->name . ' ' . $request->last_name;
 
