@@ -18,6 +18,8 @@
     <link rel="icon" href="{{ asset('logohidromec.svg') }}" type="image/x-icon">
     <link rel="stylesheet" href="{{ asset('css/style.css') }}" />
 
+    <link rel="preconnect" href="https://agricola.hidromecproductos.com/">
+    <link rel="preload" as="image" href="https://agricola.hidromecproductos.com/images/img/image_16.webp">
 
     </script>
 
