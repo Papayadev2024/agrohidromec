@@ -36,12 +36,12 @@
         }
 
         .fondobombas {
-            background-image: url("./images/img/fondobombas.png");
+            background-image: url("./images/img/fondobombas.webp");
             object-fit: contain;
         }
 
         .fondologos {
-            background-image: url("./images/img/fondologos.png");
+            background-image: url("./images/img/fondologos.webp");
             object-fit: cover;
         }
 
@@ -57,10 +57,10 @@
 
     <main class="bg-[#F9FAFB]">
         <section class="relative">
-            <img src="{{ asset('images/img/image_16.png') }}" alt="hidromec agricola"
+            <img src="{{ asset('images/img/image_16.webp') }}" alt="hidromec agricola"
                 class="w-full h-[800px] object-cover hidden md:block" />
 
-            <img src="{{ asset('images/img/image_16.png') }}" alt="hidromec agricola"
+            <img src="{{ asset('images/img/image_16.webp') }}" alt="hidromec agricola"
                 class="w-full h-[1000px] object-cover block md:hidden" />
 
             <div
@@ -299,16 +299,16 @@
 
                     <div class="flex flex-row gap-2 lg:gap-2 justify-center lg:justify-end items-start">
                         <div class="flex justify-center items-center">
-                            <img src="{{ asset('images/img/image_20.png') }}" alt="ISO" class="w-24" />
+                            <img src="{{ asset('images/img/image_20.webp') }}" alt="ISO" class="w-24" />
                         </div>
                         <div class="flex justify-center items-center">
-                            <img src="{{ asset('images/img/image_21.png') }}" alt="ISO" class="w-24" />
+                            <img src="{{ asset('images/img/image_21.webp') }}" alt="ISO" class="w-24" />
                         </div>
                     </div>
 
                     <div class="flex flex-row justify-center lg:justify-end items-center">
                         <div class="flex justify-center items-center">
-                            <img src="{{ asset('images/img/pentaxlargeblack.png') }}" alt="pentax" class="w-[600px]" />
+                            <img src="{{ asset('images/img/pentaxlargeblack.webp') }}" alt="pentax" class="w-[600px]" />
                         </div>
                     </div>
 
@@ -417,16 +417,16 @@
                 <div class="grid grid-cols-2 lg:grid-cols-4 gap-5 md:gap-10">
 
                     <div class="flex justify-center items-center">
-                        <img src="{{ asset('images/img/image_27.png') }}" alt="pentair" />
+                        <img src="{{ asset('images/img/image_27.webp') }}" alt="pentair" />
                     </div>
                     <div class="flex justify-center items-center">
-                        <img src="{{ asset('images/img/image_30.png') }}" alt="pentair" />
+                        <img src="{{ asset('images/img/image_30.webp') }}" alt="pentair" />
                     </div>
                     <div class="flex justify-center items-center">
-                        <img src="{{ asset('images/img/image_31.png') }}" alt="pentair" />
+                        <img src="{{ asset('images/img/image_31.webp') }}" alt="pentair" />
                     </div>
                     <div class="flex justify-center items-center">
-                        <img src="{{ asset('images/img/pentax.png') }}" alt="pentair" />
+                        <img src="{{ asset('images/img/pentax.webp') }}" alt="pentair" />
                     </div>
                 </div>
             </div>
